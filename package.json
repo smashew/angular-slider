@@ -1,6 +1,7 @@
 {
   "name": "angular-slider",
-  "description": "Slider directive implementation for AngularJS, without jQuery dependencies.",
+  "version": "0.2.15",
+  "description": "Slider directive implementation for AngularJS, without jQuery dependencies. Also, with a a version number",
   "main": "slider.js",
   "repository": {
     "type": "git",
